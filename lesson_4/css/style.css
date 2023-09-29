@@ -1,1 +1,71 @@
 @import url("reset.css");
+
+
+/* * {
+	color: red;
+} */
+
+p {
+	color: aqua;
+}
+
+#new-models {
+	color: darkred;
+}
+
+.brend-company {
+	color: green;
+}
+
+a {
+	color: blue;
+}
+
+
+div.histori-harley {
+	color: blueviolet;
+}
+
+li,
+.histori-harley,
+.brend-company {
+	color: rgb(245, 10, 218);
+}
+
+
+.brend-company a {
+	color: blue;
+}
+
+.histori-harley .text {
+	color: gold;
+}
+
+
+.list-top * {
+	color: chartreuse;
+}
+
+.brend-company>p {
+	color: rgb(5, 100, 0);
+}
+
+.brend-company~p {
+	color: rgb(255, 72, 0);
+}
+
+.brend-company+p {
+	color: goldenrod;
+}
+
+.histori-harley>ul+p {
+	color: crimson;
+}
+
+[class*="-lore"] {
+	color: blueviolet;
+}
+
+/* * {
+	color: orangered !important;
+} */
