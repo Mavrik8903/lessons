@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400;0,600;0,700;1,400&family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,600;0,9..40,700;0,9..40,800;1,9..40,400&family=Inter:wght@400;700&family=Lato:ital,wght@0,300;0,400;0,700;1,400&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Poppins:regular,italic,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Inter:regular,600,700&display=swap");
+
+@font-face {
+	font-family: "Lemon-Tuesday";
+	src:
+		url("../fonts/Lemon-Tuesday.woff2") format("woff2"),
+		url("../fonts/Lemon-Tuesday.woff format")("woff");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "MADE-TheArtist-Script-PERSONAL-USE";
+	src:
+		url("../fonts/MADE-TheArtist-Script-PERSONAL-USE.woff2") format("woff2"),
+		url("../fonts/MADE-TheArtist-Script-PERSONAL-USE.woff format")("woff");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
