@@ -1,0 +1,160 @@
+@import url("reset.css");
+
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400;0,600;0,700;1,400&family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,600;0,9..40,700;0,9..40,800;1,9..40,400&family=Inter:wght@400;700&family=Lato:ital,wght@0,300;0,400;0,700;1,400&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Poppins:regular,italic,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Inter:regular,600,700&display=swap");
+
+@font-face {
+	font-family: "Lemon-Tuesday";
+	src:
+		url("../fonts/Lemon-Tuesday.woff2") format("woff2"),
+		url("../fonts/Lemon-Tuesday.woff format")("woff");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "MADE-TheArtist-Script-PERSONAL-USE";
+	src:
+		url("../fonts/MADE-TheArtist-Script-PERSONAL-USE.woff2") format("woff2"),
+		url("../fonts/MADE-TheArtist-Script-PERSONAL-USE.woff format")("woff");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+
+
+
+body {
+	font-family: Onest;
+	font-size: 25px;
+}
+
+h1 {
+	font-family: Lemon-Tuesday;
+	font-size: 50px;
+	text-decoration: underline;
+	text-align: center;
+	text-transform: capitalize;
+	color: brown;
+}
+
+span {
+	font-family: Gabarito;
+	font-size: 34px;
+	color: darkorange;
+	font-style: oblique;
+	text-decoration: line-through;
+}
+
+
+.list-nav {
+	font-family: Arimo;
+	font-size: 30px;
+	text-transform: uppercase;
+	text-shadow: 5px 5px 3px rgba(60, 0, 255, 0.5);
+	color: red;
+}
+
+.istoria {
+	color: rgb(47, 0, 128);
+}
+
+.istoria-continuation {
+	color: rgb(226, 208, 43);
+	font-family: MADE-TheArtist-Script-PERSONAL-USE;
+	font-size: 60px;
+	font-style: inherit;
+}
+
+.opyus {
+	font-family: DM+Sans;
+	color: rgb(46, 208, 14);
+}
+
+.osobliv {
+	color: #6B77E5;
+	font-size: 35px;
+	text-shadow: red 1px 0px 10px;
+}
+
+.training {
+	color: rgb(52, 22, 223);
+	text-transform: capitalize;
+	font-family: 'Times New Roman', Times, serif;
+	font-style: italic;
+	letter-spacing: 10px;
+}
+
+.doglyad {
+	font-size: 30px;
+	font-family: Gabarito;
+	letter-spacing: 5px;
+	text-align: center;
+}
+
+
+#histori,
+#personality,
+#description,
+#teaching,
+#care,
+#common-diseases {
+	font-size: 50px;
+	text-decoration: underline;
+	color: rgb(244, 13, 13);
+	text-align: center;
+}
+
+/* -------------------------------Верстка з Figma--------------------------------------------- */
+
+.title1 {
+	color: #37393F;
+	font-family: Poppins;
+	font-size: 30px;
+	font-weight: 600;
+	line-height: 1.27;
+}
+
+.layout-part1 {
+	color: #7D7D7D;
+	font-family: Inter;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 1.46
+}
+
+.title2 {
+	color: #6B77E5;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 1.27;
+}
+
+.title3 {
+	color: #37393F;
+	font-family: Poppins;
+	font-size: 40px;
+	font-weight: 700;
+	line-height: 1.27
+}
+
+.layout-part2 p {
+	color: #7D7D7D;
+	font-size: 18px;
+	font-family: Inter;
+	font-weight: 400;
+	line-height: 1.46;
+}
+
+.layout-part2 ul,
+ol {
+	color: #7D7D7D;
+	font-family: Inter;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 1.46;
+}
