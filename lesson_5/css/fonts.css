@@ -5,18 +5,22 @@
 @font-face {
 	font-family: "Lemon-Tuesday";
 	src:
-		url("../fonts/Lemon-Tuesday.woff2") format("woff2"),
-		url("../fonts/Lemon-Tuesday.woff format")("woff");
+		url("../fonts/Lemon-Tuesday.woff2")format("woff2"),
+		url("../fonts/Lemon-Tuesday.woff")format("woff");
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
 }
 
 @font-face {
-	font-family: "MADE-TheArtist-Script-PERSONAL-USE";
+	font-family: "ShantellSans";
 	src:
-		url("../fonts/MADE-TheArtist-Script-PERSONAL-USE.woff2") format("woff2"),
-		url("../fonts/MADE-TheArtist-Script-PERSONAL-USE.woff format")("woff");
+		url("../fonts/ShantellSans-Bold.woff2") format("woff2"),
+		url("../fonts/ShantellSans-Bold.woff") format("woff"),
+		url("../fonts/ShantellSans-BoldItalic.woff2") format("woff2"),
+		url("../fonts/ShantellSans-BoldItalic.woff") format("woff"),
+		url("../fonts/ShantellSans-Regular.woff2") format("woff2"),
+		url("../fonts/ShantellSans-Regular.woff") format("woff");
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
