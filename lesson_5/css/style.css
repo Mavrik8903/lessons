@@ -38,6 +38,7 @@ span {
 
 .istoria {
 	font-family: ShantellSans;
+	font-weight: bold;
 	color: rgb(47, 0, 128);
 }
 
@@ -56,6 +57,7 @@ span {
 }
 
 .osobliv {
+	font-family: ShantellSans;
 	color: #6B77E5;
 	font-size: 35px;
 	text-shadow: red 1px 0px 10px;

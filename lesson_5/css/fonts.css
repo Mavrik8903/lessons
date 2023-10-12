@@ -15,13 +15,31 @@
 @font-face {
 	font-family: "ShantellSans";
 	src:
-		url("../fonts/ShantellSans-Bold.woff2") format("woff2"),
-		url("../fonts/ShantellSans-Bold.woff") format("woff"),
-		url("../fonts/ShantellSans-BoldItalic.woff2") format("woff2"),
-		url("../fonts/ShantellSans-BoldItalic.woff") format("woff"),
 		url("../fonts/ShantellSans-Regular.woff2") format("woff2"),
 		url("../fonts/ShantellSans-Regular.woff") format("woff");
 	font-weight: normal;
 	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "ShantellSans";
+	src:
+		url("../fonts/ShantellSans-Bold.woff2") format("woff2"),
+		url("../fonts/ShantellSans-Bold.woff") format("woff");
+
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+
+@font-face {
+	font-family: "ShantellSans";
+	src:
+		url("../fonts/ShantellSans-BoldItalic.woff2") format("woff2"),
+		url("../fonts/ShantellSans-BoldItalic.woff") format("woff");
+	font-weight: 700;
+	font-style: italic;
 	font-display: swap;
 }
