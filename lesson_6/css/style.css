@@ -1,0 +1,168 @@
+@import url("fonts.css");
+@import url("reset.css");
+
+
+body {
+	font-family: Inter, sans-serif;
+	color: #7D7D7D;
+	font-size: 18px;
+}
+
+header {
+	color: blue;
+	font-size: 30px;
+	margin-bottom: 15px;
+	text-align: center;
+}
+
+
+.blok1 {
+	padding: 30px 15px;
+	max-width: 722px;
+	margin: 0 auto;
+}
+
+.img1 {
+	width: 100%;
+	margin-bottom: 37px;
+}
+
+.box1 {
+	margin-bottom: 40px;
+}
+
+.title {
+	margin-bottom: 27px;
+	color: #37393F;
+	font-family: Poppins, sans-serif;
+	font-size: 30px;
+	font-weight: 600;
+	line-height: 1.27;
+}
+
+.box1 p {
+	line-height: 1.46;
+}
+
+.box2 {
+	margin-bottom: 40px;
+}
+
+.box2 p {
+	line-height: 1.46;
+}
+
+.subtitle {
+	color: #6B77E5;
+	font-family: Poppins, sans-serif;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 1.27;
+	margin-bottom: 12px;
+}
+
+.vertical {
+	font-size: 0;
+	margin-bottom: 100px;
+}
+
+.vertical-img {
+	width: 331px;
+	margin-right: 29px;
+
+}
+
+.vertical-text {
+
+	max-width: 332px;
+	display: inline-block;
+	font-size: 18px;
+
+}
+
+.vertical-title {
+	color: #37393F;
+	font-family: Poppins, sans-serif;
+	font-size: 25px;
+	font-weight: 600;
+	line-height: 1.27;
+	margin-bottom: 15px;
+}
+
+.vertical-subtitle {
+	color: #40DDB6;
+	font-family: Poppins, sans-serif;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 1.27;
+	margin-bottom: 23px;
+}
+
+.list li {
+	color: #7D7D7D;
+	font-family: Inter, sans-serif;
+	margin-bottom: 30px;
+
+}
+
+
+
+
+
+
+.blok-jewellery {
+	background: #FFF9F4;
+	padding: 50px 15px;
+	max-width: 1199px;
+	margin: 0 auto;
+}
+
+.jewelery-content {
+	display: inline-block;
+	max-width: 565px;
+	padding-right: 38px;
+	/* font-size: 0; */
+}
+
+.jewellery-subtitle {
+	color: #D06B00;
+	font-family: Inter, sans-serif;
+	font-size: 28px;
+	max-width: 183px;
+	margin-bottom: 13px;
+}
+
+.jewellery-title {
+	font-family: DM+Serif+Text, sans-serif;
+	max-width: 526px;
+	margin-bottom: 25px;
+	color: #0E333D;
+	font-family: DM Serif Text, sans-serif;
+	font-size: 59px;
+	line-height: 1.46;
+}
+
+.jewelery-content p {
+	width: 563px;
+	color: #474747;
+	font-family: Inter, sans-serif;
+	font-size: 20px;
+	line-height: 1.80;
+}
+
+
+
+.imej-gerl {
+	max-width: 273px;
+	margin-right: 22px;
+}
+
+.imeg-amulet {
+	max-width: 273px;
+}
+
+.link {
+	text-align: center;
+	font-size: 25px;
+	color: darkgreen;
+}
